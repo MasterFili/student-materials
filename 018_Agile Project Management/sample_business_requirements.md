@@ -2,45 +2,45 @@
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+Gorma is an application that helps it's user manage three subjects, health, finances, and lifestyle (time managment, objectives, etc.).
+Before using the application the user will be prompted to take an assesment, this assesment will help the application catagorize the users specific goals in each subject. This document will provide further information on the objective the project.
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+The value this project brings to individuals lies in it's purpose, and the main purpose of the application is to fufill the goals of the user. The completion of the users goals is what will determine how valuable the application is. what one wants to accomplish in either health (dieting (calorie calculator, nutrient tracker, weight loss/gain expectaional progress etc), exercise (workout index**, cardio tracking, calorie burn, progress reports**, etc) etc..), finances ( stock/crypto portofolio, budgeting, savings goals (conect to bank account), income projections, monthly/yearly expenses, rainy day vault etc.) and lifestyle (health, finances, & general goal tracking, time managment (agenda), reminders**, etc) although most features will not be implemented immedietly, the general objective is to create a platform that helps align the users wants in a systematic tool-like structure. freemium modeled application that allows user access to a limited amount of features, and grants access to all features with one-time payment, or subscription service( still undecided at this point).
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+having six younger siblings i felt a responibility to be a big brother. watch over and protect my kin, after going through the foster system in the mid teens and becoming seperated from my siblings not knowing how they are i became hopeless. i tried creating an advertising company in hopes of gaining enough capital to own a home and take car of all 6 at the age of 18-19. the advertising company failed after 1 year of living in an office. i felt hopeless, and decided to start this venture, thinking if i cannot support them financially, i'll have to build an older brother in an application that will help them with the nessecities. 
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+the project is a tool, it's not entertainment. the features for the application are vast but should be noted that it has to be useful and not somthing someone does not need. there's only limited amount of space a phone application should consume from ones device.
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
+health, finances, and lifestyle, still in development..
 
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+the team needs to understand this is meant to organize anyones and everyones values, and goals, and it's not meant to be taken lightly. the team can be small 5-7 people, and anyone willing to learn but must be realistic, logistical and has failed.
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+minimal viable product within 6 months.
 
 ## Other requirements
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+none.
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
-
+a lot of frame works, to be discussed.
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+app size, speed, and ui.
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+non actions.
